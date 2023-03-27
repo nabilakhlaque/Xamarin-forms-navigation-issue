@@ -13,7 +13,7 @@ namespace App3
 
             Routing.RegisterRoute("Page1", typeof(Page1));
             Routing.RegisterRoute("Page2", typeof(Page2));
-            Routing.RegisterRoute("Page3", typeof(Page2));
+            Routing.RegisterRoute("Page3", typeof(Page3));
             Routing.RegisterRoute("Page4", typeof(Page4));
         }
 
